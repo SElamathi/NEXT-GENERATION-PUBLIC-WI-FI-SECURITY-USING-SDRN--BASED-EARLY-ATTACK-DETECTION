@@ -1,0 +1,2 @@
+# NEXT-GENERATION-PUBLIC-WI-FI-SECURITY-USING-SDRN--BASED-EARLY-ATTACK-DETECTION
+Public Wi-Fi Security using SDRN-Based Early Attack Detection is a cybersecurity project that detects Rogue Access Points, Evil Twin, ARP Spoofing, and MITM attacks using Software Defined Radio Network (SDRN) and cross-layer analysis, providing real-time threat detection to enhance public Wi-Fi security and reliability.
